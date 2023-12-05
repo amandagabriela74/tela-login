@@ -1,0 +1,12 @@
+.form{
+    height: 100%;
+    width: 50%;
+}
+
+.form-login{
+background-color: aqua;
+}
+
+.form-register{
+background-color: azure;
+}
