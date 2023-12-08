@@ -3,3 +3,7 @@
     font-weight: 400;
     color: #000;
 }
+
+.form-title-light{
+    color: var(--text-color-light);
+}
