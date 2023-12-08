@@ -1,0 +1,7 @@
+.social-icon:hover{
+    transition: .5s;
+}
+
+.social-icon:hover{
+    transform: translateY(-15%) scale(1.2);
+}
