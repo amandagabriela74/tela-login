@@ -15,6 +15,7 @@
 .form-button:hover{
     background-color: var(--primary-color);
     color: var(--secundary-color);
+    transform: translateY(-5%);
 }
 
 .form-button-light{
