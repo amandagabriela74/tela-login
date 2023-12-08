@@ -4,7 +4,12 @@
     left: 0;
     width: 50%;
     height: 100%;
-    transform: translateX(100%);
     text-align: center;
     color: var(--text-color-light);
+    transform: translateX(100%);
+    transition: 1s;
+}
+
+.login-container.move .overlay-container{
+    transform: translateX(0%);
 }
